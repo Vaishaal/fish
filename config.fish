@@ -8,7 +8,7 @@ alias e='emacsclient -t --alternate-editor=""'
 # in .config.fish
 
 function fish_prompt
-  env FISH_VERSION=$FISH_VERSION PROMPTLINE_LAST_EXIT_CODE=$status bash ~/.config/fish/shell_prompt.sh left
+  env FISH_VERSION=$FISH_VERSION PROMPTLINE_LAST_EXIT_CODE=$status bash ~/.config/fish/.shell_prompt.sh left
 end
 
 function fish_right_prompt
