@@ -1,0 +1,1 @@
+/Users/vaishaal/.fzf/shell/key-bindings.fish
