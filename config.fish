@@ -1,5 +1,4 @@
-fish_vi_mode
-fzf_key_bindings
+fish_vi_key_bindings
 set -gx PATH $PATH ~rc/bin/
 set -gx PATH $PATH ~osdev/bin
 alias e='emacsclient -t --alternate-editor=""'
